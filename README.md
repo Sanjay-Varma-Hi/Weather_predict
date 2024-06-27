@@ -4,6 +4,7 @@ This is a wether prediction of SFO airport
 Got the data from NOAA
 
 # Steps
+Ridge Regression is used to predict weather data, specifically the maximum temperature (tmax).
 1. Preprocess the data
 2. Do backtest this helps to check previous date's data
 3. Taking month of every year as every year as the season would be same
