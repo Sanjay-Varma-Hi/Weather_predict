@@ -10,6 +10,4 @@ Ridge Regression is used to predict weather data, specifically the maximum tempe
 3. Taking month of every year as every year as the season would be same
 
 
-# Mean absolute error : 3.41
-
-## checking
+## Mean absolute error : 3.41
